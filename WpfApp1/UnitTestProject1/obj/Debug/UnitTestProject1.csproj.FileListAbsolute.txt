@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\sdfg\WpfApp1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\sdfg\WpfApp1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
